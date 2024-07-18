@@ -10,7 +10,7 @@
   - [Data Collection](#data-collection)
   - [Creating an EC2 Instance and Launching Airflow](#creating-an-ec2-instance-and-launching-airflow)
   - [Using Airflow to Execute and Activate the Pipeline](#using-airflow-to-execute-and-activate-the-pipeline)
-- [Contributing](#contributing)
+
 
 
 ## Overview
@@ -70,5 +70,4 @@ Source used: [Spotify API](https://developer.spotify.com/documentation/web-api)
 3. Run the code by selecting the graph from the navbar and debug if any issues arise.
 4. After execution, check if the pipeline is functioning properly by checking the S3 bucket (destination) in the AWS Management Console.
 
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request with your changes.
+
